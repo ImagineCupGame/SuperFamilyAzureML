@@ -6,7 +6,11 @@ Churn is a term employed when consumers stop using a good or service. It is seen
 
 The *Super Family* game is a basic web app about a family of super heroes. Heroes battle villains, but there is a twist—the game uses the results of a predictive model to account for potential churn, and it provides a new helmet to a player if a churn event is imminent. If churn is not likely, the game does not provide the bonus.
 
-You will have the opportunity to alter your machine learning experiment to try to make your churn prediction as accurate as possible. In the real world, misclassification can be costly. Imagine if a company provided a free month of service or a hotel provided a free stay, when the customer was not actually considering alternative services. Money or other resources would have been employed for no reason. The goal in this case is to reduce such false positives—when a churn event is predicted, but in reality, the consumer is not likely to churn.
+You will have the opportunity to alter your machine learning experiment to try to make your churn prediction as accurate as possible. In the real world, misclassification can be costly. Imagine if a company provided a free month of service or a hotel provided a free stay, when the customer was not actually considering alternative services. Money or other resources would have been employed for no reason. The goal in this case is to reduce such false positives—when a churn event is predicted, but in reality, the consumer is not likely to churn.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImagineCupGame/SuperFamilyAzureML/master/assets/MrStrength.png" alt="Mr Strength"/>
+</p>
+
 
 ## Objectives
 - Prepare data for a churn experiment
