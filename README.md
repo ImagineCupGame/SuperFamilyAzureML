@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImagineCupGame/SuperFamilyAzureML/master/assets/ImagineCupLogo.png" width="80%" alt="Imagine Cup"/>
+</p>
+
 # Churn Prediction and Intervention
-*Azure Machine Learning and Azure App Services*
+*Azure Machine Learning and Azure App Service*
 
 ## Overview
 Churn is a term employed when consumers stop using a good or service. It is seen across a number of industries, and in many cases, companies devote additional resources to stop a customer from leaving. With online computer games, for example, substantial data is available to analyze individual and collective player behavior to help predict when a particular gamer may leave. Game creators may even take their capabilities a step further and intervene in-game to incentivize players to continue gaming. Additional bonuses, power-ups, and numerous other tactics are common methods employed to keep such players involved.
