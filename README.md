@@ -19,14 +19,15 @@ You will have the opportunity to alter your machine learning experiment to try t
 
 
 ## Objectives
-- Prepare data for a churn experiment
-- Train and score a model using Support Vector Machines
-- Train and score a model using Boosted Decision Trees
-- Publish your churn experiment as a web service
-- Create your *Super Family* game
-- Publish and play the *Super Family* game
-
 This exercise is split into six activities that will help you gain an understanding of churn analysis and how to intervene to try to prevent churn. You will learn the basic process used to train, score and evaluate a predictive churn model. The first four activities utilize *Azure Machine Learning* (Azure ML) to prepare a model to determine whether or not a player may churn. The final two activities use *Azure App Service* and involve deploying a simple ASP.NET *Super Family* game that invokes your Azure ML model. Based on the prediction returned by Azure ML, in-game behavior changes to incentivize a player to continue playing. Using different selection of features and changes to model parameters, how accurate can you become at predicting churn?
+
+- Activity 1 - Prepare data for a churn experiment
+- Activity 2 - Train and score a model using Support Vector Machines
+- Activity 3 - Train and score a model using Boosted Decision Trees
+- Activity 4 - Publish your churn experiment as a web service
+- Activity 5 - Create your *Super Family* game
+- Activity 6 - Publish and play the *Super Family* game
+
 
 ## Requirements/Prerequisites
 1.	A Microsoft account is required to access an Azure Machine Learning workspace. If you do not already have a Microsoft account, you can obtain one for free by following the link below:  
